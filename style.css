@@ -1,0 +1,126 @@
+.intro{
+    color:orange;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900px;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: darkslategray;
+    font-size: 18px;
+    font-weight: 900px;
+    margin:0px;
+    
+}
+.top-banner{
+    background-image: url(images/topframe.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  
+    
+}
+.middle-banner{
+    background-image: url(images/middleframe.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.flexible{
+    display: flex;
+
+}
+.half-width_font{
+    width: 50%;
+    padding-left:10%;
+    margin-top: 5%;
+    padding-right: 20%;
+    margin-bottom: 10%;
+       
+}
+.half-width img{
+    width: 100%;
+  
+}
+.half-width-middle_font{
+    width: 50%;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 10%;
+}
+.half-width-middle img{
+    
+    margin-top: 80px;
+    width: 50%;
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato); 
+    padding:10px 40px;
+    font-size: 18px;
+    font-weight: 700px;
+    color: seashell;
+    border-radius: 20px;
+
+   
+}
+.third_banner{
+    text-align: center;
+     padding:5%;
+  
+}
+.half-width{
+    
+    padding: 2% 2% 5% 5%;
+    border-radius: 20px;
+   
+}
+.padding{
+box-shadow:10px 10px 40px gray;
+margin-left: 2%;
+margin-right: 2%;
+width: 60%;
+padding-left: 20px;
+border-radius: 20px;
+margin-bottom: 10%;
+
+}
+
+
+h3{
+    color: black;
+    font-weight:900px;
+}
+#sharpness{
+    border-radius: 20px;
+    height: 50%;
+}
+#foot{
+    text-align: center;
+    background-color: black;
+    padding:5%;
+}
+
+.white_text{
+    color: white;
+}
+#contact{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: rgba(252, 189, 227, 0.233);
+
+}
+input{
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color:rgb(235, 214, 164);
+    box-shadow:5px 5px 5px gray;
+    width: 40%;
+    height: 10%;
+    
+}
